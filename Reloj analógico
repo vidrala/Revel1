@@ -1,6 +1,4 @@
-$("#myElement").css({
-    'transform': 'rotate(42deg)',
-    '-moz-transform': 'rotate(42deg)',
-    '-o-transform': 'rotate(42deg)',
-    '-webkit-transform': 'rotate(42deg)'
-});
+<div style="text-align:center;">
+  <iframe src="https://freesecure.timeanddate.com/clock/i5etbz0j/n165/szw160/szh160/hoc0070a8/hbw0/hfcebebeb/cf100/hgr0/fiv0/fas34/fac888/fdi72/mqv0/mhc888/mhs3/mhl20/mhw2/mhd84/mmv0/hhc888/hhb10/hhw11/hmc888/hml75/hmb10/hmw8/hsv0" frameborder="0" width="160" height="160">
+  </iframe>
+</div>
