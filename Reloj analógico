@@ -1,10 +1,8 @@
       setInterval( function() {
       var seconds = new Date().getSeconds();
       var sdegree = seconds * 6;
-      var srotate = "rotate(" + sdegree + "deg)";
-      
-      $("#sec").css({ "transform": srotate });
-          
+      var srotate = "rotate(" + sdegree + "deg)"; 
+      $("#sec").css({ "transform": srotate });    
       }, 1000 );
       
       setInterval( function() {
