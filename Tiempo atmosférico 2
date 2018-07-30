@@ -38,11 +38,7 @@
     __UP_myStylePref__;
   }
 </style>
-          <table>
-              <tr><td style="text-align: center;"><canvas id="canvas_tt5b5edbdb94468" width="250" height="250"></canvas></td></tr>
-              <tr><td style="text-align: center; font-weight: bold"><a href="//24timezones.com/es_reloj/spain_bilbao_hora.php" style="text-decoration: none" class="clock24" id="tz24-1532943323-c215352-eyJzaXplIjoiMjUwIiwiYmdjb2xvciI6IjAwNjYwMCIsImxhbmciOiJlcyIsInR5cGUiOiJhIiwiY2FudmFzX2lkIjoiY2FudmFzX3R0NWI1ZWRiZGI5NDQ2OCJ9" title="horario mundial - Bilbao" target="_blank" rel="nofollow">Llodio</a></td></tr>
-          </table>
-<script type="text/javascript" src="//w.24timezones.com/l.js" async></script>
+<div id="tyt_wdgt_1532944177515" style="overflow:hidden;width:302px;height:357px" data-options="color=verde&text=txt-verdana&content=1111100&temp_unit=c&wind_unit=kmh"><script src="http://tiempoytemperatura.es/widgets/js/big-3days/3118228/tyt_wdgt_1532944177515/?v=0"></script></div>
 
 ]]>
 </Content>
